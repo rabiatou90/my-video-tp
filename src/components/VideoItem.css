@@ -1,0 +1,13 @@
+.myVideo-item {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+.myVideo-item img {
+    max-width: 180px;
+}
+
+.myVideo-item p {
+    font-weight: bold;
+}
